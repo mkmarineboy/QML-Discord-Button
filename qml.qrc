@@ -1,5 +1,18 @@
 <RCC>
     <qresource prefix="/">
         <file>main.qml</file>
+        <file>buttons/CircularIconButton.qml</file>
+        <file>icons/atlas.svg</file>
+        <file>icons/credit-card.svg</file>
+        <file>icons/door-open.svg</file>
+        <file>icons/globe-asia.svg</file>
+        <file>icons/globe.svg</file>
+        <file>icons/key.svg</file>
+        <file>icons/trash-alt.svg</file>
+        <file>icons/user-cog.svg</file>
+        <file>icons/user-minus.svg</file>
+        <file>icons/user-plus.svg</file>
+        <file>icons/users-cog.svg</file>
+        <file>icons/users.svg</file>
     </qresource>
 </RCC>
